@@ -1,6 +1,10 @@
 
 # Visualizing Temperature
 
+My end product looks like this
+![alt text](weather.png)
+
+
 ## Problem Statement
 
 Many public APIs require some degree of authentication in order to use them.
